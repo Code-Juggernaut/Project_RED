@@ -1,0 +1,1 @@
+ -lopengl32 -lgdi32 -lwinmm -lws2_32 -lole32 "build-sfml/lib/libsfml-network.a" "build-sfml/lib/libsfml-graphics.a" "build-sfml/lib/libsfml-window.a" "build-sfml/lib/libsfml-system.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/sfml-app.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/sfml-app.dir/objects.a @CMakeFiles/sfml-app.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -static-libgcc -static-libstdc++ -Wl,-Bstatic -lwinpthread -Wl,-Bdynamic -Wl,--whole-archive CMakeFiles/sfml-app.dir/objects.a -Wl,--no-whole-archive -o sfml-app.exe -Wl,--out-implib,libsfml-app.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/sfml-app.dir/linkLibs.rsp

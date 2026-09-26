@@ -1,0 +1,1 @@
+-I"/home/amo999/Projects/C++/Project_RED/build-win/_deps/freetype-build/include/freetype/config" -isystem "/home/amo999/Projects/C++/Project_RED/build-win/_deps/freetype-build/include" -isystem "/home/amo999/Projects/C++/Project_RED/build-win/_deps/freetype-src/include" -isystem "/home/amo999/Projects/C++/Project_RED/build-win/_deps/harfbuzz-src/src"

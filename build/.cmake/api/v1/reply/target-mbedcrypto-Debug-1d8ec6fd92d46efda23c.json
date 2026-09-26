@@ -1,0 +1,55 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package"
+		],
+		"files" : 
+		[
+			"libs/SFML/cmake/Modules/FindMbedTLS.cmake",
+			"libs/SFML/src/SFML/Network/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 129,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "mbedcrypto::@f334aa3ac3aadb43d44a",
+	"imported" : true,
+	"local" : true,
+	"name" : "mbedcrypto",
+	"paths" : 
+	{
+		"build" : "build-sfml/src/SFML/Network",
+		"source" : "libs/SFML/src/SFML/Network"
+	},
+	"sources" : [],
+	"type" : "UNKNOWN_LIBRARY"
+}

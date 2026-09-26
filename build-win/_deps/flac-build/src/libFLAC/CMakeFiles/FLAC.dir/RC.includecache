@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amo999/Projects/C++/Project_RED/build-win/_deps/flac-src/src/libFLAC/version.rc
+winver.h
+-
+config.h
+/home/amo999/Projects/C++/Project_RED/build-win/_deps/flac-src/src/libFLAC/config.h
+FLAC/export.h
+/home/amo999/Projects/C++/Project_RED/build-win/_deps/flac-src/src/libFLAC/FLAC/export.h
+
+_deps/flac-build/config.h
+
+_deps/flac-src/include/FLAC/export.h
+

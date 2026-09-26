@@ -1,0 +1,32 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/amo999/Projects/C++/Project_RED/build-win/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/System/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/Main/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/Window/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/Network/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-build/framework/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-build/include/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-build/library/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-build/pkgconfig/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/libssh2-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/libssh2-build/src/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/Graphics/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/freetype-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/harfbuzz-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/sheenbidi-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/build-sfml/src/SFML/Audio/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/ogg-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/flac-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/flac-build/src/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/flac-build/src/libFLAC/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/vorbis-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/_deps/vorbis-build/lib/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build-win/json/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
