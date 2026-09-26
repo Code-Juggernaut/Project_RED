@@ -1,0 +1,66 @@
+{
+	"abstract" : true,
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package"
+		],
+		"files" : 
+		[
+			"/usr/share/cmake-4.3/Modules/FindFontconfig.cmake",
+			"/usr/share/cmake-4.3/Modules/FindX11.cmake",
+			"libs/SFML/src/SFML/Window/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 281,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 374,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 109,
+				"parent" : 4
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "Fontconfig::Fontconfig::@ecdb96fede325450a30e",
+	"imported" : true,
+	"local" : true,
+	"name" : "Fontconfig::Fontconfig",
+	"paths" : 
+	{
+		"build" : "build-sfml/src/SFML/Window",
+		"source" : "libs/SFML/src/SFML/Window"
+	},
+	"sources" : [],
+	"type" : "UNKNOWN_LIBRARY"
+}

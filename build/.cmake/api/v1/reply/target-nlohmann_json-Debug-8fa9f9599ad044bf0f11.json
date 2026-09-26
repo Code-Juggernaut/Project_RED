@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"libs/json/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 127,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"id" : "nlohmann_json::@68e8f0cad03b8f6f8c19",
+	"name" : "nlohmann_json",
+	"paths" : 
+	{
+		"build" : "json",
+		"source" : "libs/json"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

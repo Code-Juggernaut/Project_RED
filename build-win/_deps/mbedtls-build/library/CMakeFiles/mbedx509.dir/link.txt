@@ -1,0 +1,2 @@
+/usr/bin/x86_64-w64-mingw32-ar qc ../../../build-sfml/lib/libmbedx509.a CMakeFiles/mbedx509.dir/pkcs7.c.obj CMakeFiles/mbedx509.dir/x509.c.obj CMakeFiles/mbedx509.dir/x509_create.c.obj CMakeFiles/mbedx509.dir/x509_crl.c.obj CMakeFiles/mbedx509.dir/x509_crt.c.obj CMakeFiles/mbedx509.dir/x509_csr.c.obj CMakeFiles/mbedx509.dir/x509write.c.obj CMakeFiles/mbedx509.dir/x509write_crt.c.obj CMakeFiles/mbedx509.dir/x509write_csr.c.obj
+/usr/bin/x86_64-w64-mingw32-ranlib ../../../build-sfml/lib/libmbedx509.a

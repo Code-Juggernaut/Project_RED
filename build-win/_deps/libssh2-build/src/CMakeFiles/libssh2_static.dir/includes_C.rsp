@@ -1,0 +1,1 @@
+-I"/home/amo999/Projects/C++/Project_RED/build-win/_deps/libssh2-build/src" -I"/home/amo999/Projects/C++/Project_RED/build-win/_deps/libssh2-src/include" -I"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-src/include"

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/amo999/Projects/C++/Project_RED/build-win/_deps/sheenbidi-build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DSB_CONFIG_UNITY @CMakeFiles/SheenBidi.dir/includes_C.rsp -w -o CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.obj -c /home/amo999/Projects/C++/Project_RED/build-win/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "file": "/home/amo999/Projects/C++/Project_RED/build-win/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "output": "_deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.obj"
+}
+]

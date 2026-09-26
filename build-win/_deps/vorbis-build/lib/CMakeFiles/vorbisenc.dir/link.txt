@@ -1,0 +1,2 @@
+/usr/bin/x86_64-w64-mingw32-ar qc ../../../build-sfml/lib/libvorbisenc.a CMakeFiles/vorbisenc.dir/vorbisenc.c.obj
+/usr/bin/x86_64-w64-mingw32-ranlib ../../../build-sfml/lib/libvorbisenc.a

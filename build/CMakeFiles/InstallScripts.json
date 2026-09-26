@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/amo999/Projects/C++/Project_RED/build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/src/SFML/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/src/SFML/System/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/src/SFML/Window/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/src/SFML/Network/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/src/SFML/Graphics/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/_deps/sheenbidi-build/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/build-sfml/src/SFML/Audio/cmake_install.cmake",
+		"/home/amo999/Projects/C++/Project_RED/build/json/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

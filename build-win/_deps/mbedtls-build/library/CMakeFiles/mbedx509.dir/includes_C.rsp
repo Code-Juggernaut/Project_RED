@@ -1,0 +1,1 @@
+-I"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-src/library" -I"/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-build/library" -isystem "/home/amo999/Projects/C++/Project_RED/build-win/_deps/mbedtls-src/include"
